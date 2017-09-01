@@ -1,4 +1,4 @@
-# [BDManager v2.0](https://t.me/BeyondTeam)
+
 An advanced administration bot based on BDMessenger
 
 [![Bot API](http://img.shields.io/badge/Bot%20API-v3.4-00aced.svg)](https://core.telegram.org/bots/api)
@@ -17,7 +17,7 @@ An advanced administration bot based on BDMessenger
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDManager.git
+git clone https://github.com/IHA114/BDManager.git
 cd BDManager
 chmod +x beyond.sh
 ./beyond.sh install
@@ -33,7 +33,7 @@ tmux
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDManager.git && cd BDManager && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/IHA114/BDManager.git && cd BDManager && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
 ```
 
 
